@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "2.1.1",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
-  "notes": "Merge dev: Livret jeune + favori Proxeema (boutons accueil/plan) + doc beta"
+  "notes": "Mise a jour beta : import plan de charge V2, remplissage extranet fiabilise, re-import client avec comparaison"
 }
