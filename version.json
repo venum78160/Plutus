@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
-  "notes": "Mise a jour beta : import plan de charge V2, remplissage extranet fiabilise, re-import client avec comparaison"
+  "notes": "Mise a jour beta : periode de test avec date de fin (mode consultation ensuite)"
 }
