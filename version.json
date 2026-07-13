@@ -1,5 +1,6 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.6",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
-  "notes": "Merge pull request #5 from venum78160/dev"
+  "url_exe": "https://github.com/venum78160/Plutus/releases/latest/download/Plutus-Installation.exe",
+  "notes": "Merge pull request #6 from venum78160/retours-ux-13-07-salve2"
 }
