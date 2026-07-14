@@ -1,6 +1,6 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.7",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
   "url_exe": "https://github.com/venum78160/Plutus/releases/latest/download/Plutus-Installation.exe",
-  "notes": "Merge pull request #6 from venum78160/retours-ux-13-07-salve2"
+  "notes": "Connexion Google : agenda, envoi Gmail des CR, invitation client"
 }
