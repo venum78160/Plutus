@@ -1,6 +1,6 @@
 {
-  "version": "2.1.7",
+  "version": "2.1.8",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
   "url_exe": "https://github.com/venum78160/Plutus/releases/latest/download/Plutus-Installation.exe",
-  "notes": "Connexion Google : agenda, envoi Gmail des CR, invitation client"
+  "notes": "Rapatrie le bump v2.1.7"
 }
