@@ -1,6 +1,6 @@
 {
-  "version": "2.1.8",
+  "version": "2.1.9",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
   "url_exe": "https://github.com/venum78160/Plutus/releases/latest/download/Plutus-Installation.exe",
-  "notes": "Correctifs : connexion Google livrée par la mise à jour, notes client toujours enregistrées, croix profil investisseur (lettre de mission), favori anti-rebascule"
+  "notes": "Liste clients : barre de filtres stable, tris à bascule, colonne « Dernière activité »"
 }
