@@ -1,6 +1,6 @@
 {
-  "version": "2.1.9",
+  "version": "2.1.10",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
   "url_exe": "https://github.com/venum78160/Plutus/releases/latest/download/Plutus-Installation.exe",
-  "notes": "Liste clients : barre de filtres stable, tris à bascule, colonne « Dernière activité »"
+  "notes": "Merge branch 'dev'"
 }
