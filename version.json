@@ -1,6 +1,8 @@
 {
-  "version": "2.1.12",
+  "version": "2.2.0",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
-  "url_exe": "https://github.com/venum78160/Plutus/releases/latest/download/Plutus-Installation.exe",
-  "notes": "docs(notes): la note de MAJ signale l'avertissement de sauvegardes synchronisees"
+  "url_exe": "https://github.com/venum78160/Plutus/releases/download/v2.2.0/Plutus-Installation.exe",
+  "sha256": "5dd90624207ca7329ea6ed39499ac292516788ba069ee4489db475854f64f382",
+  "taille": 42276461,
+  "notes": "feat(mise a jour): mettre Plutus a jour en un clic [minor]"
 }
