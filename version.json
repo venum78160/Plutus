@@ -1,8 +1,73 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
+  "niveau": "normale",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
-  "url_exe": "https://github.com/venum78160/Plutus/releases/download/v2.2.0/Plutus-Installation.exe",
-  "sha256": "5dd90624207ca7329ea6ed39499ac292516788ba069ee4489db475854f64f382",
-  "taille": 42276461,
-  "notes": "feat(mise a jour): mettre Plutus a jour en un clic [minor]"
+  "url_exe": "https://github.com/venum78160/Plutus/releases/download/v2.3.0/Plutus-Installation.exe",
+  "sha256": "f73eeca0ffbf60c1fd606faa944aa282506cdf0bb3b871d076510f20e727ef63",
+  "taille": 42658972,
+  "notes": "release: dix lots produit (corbeille, pilotage, courrier, autodiagnostic) [minor]",
+  "retirees": [],
+  "notes_maj": {
+    "version": "2.3.0",
+    "date": "2026-08-11",
+    "intro": "Cette mise à jour rassemble plusieurs semaines de travail — d’où une liste inhabituellement longue.",
+    "points": [
+      {
+        "t": "nouveau",
+        "titre": "Revenez sur une suppression"
+      },
+      {
+        "t": "nouveau",
+        "titre": "Voyez où en est votre activité sans ouvrir chaque fiche"
+      },
+      {
+        "t": "nouveau",
+        "titre": "Passez du rendez-vous au compte rendu sans rien retaper"
+      },
+      {
+        "t": "nouveau",
+        "titre": "La fiche ne diverge plus des documents signés"
+      },
+      {
+        "t": "nouveau",
+        "titre": "Votre courrier en préparation ne se perd plus"
+      },
+      {
+        "t": "nouveau",
+        "titre": "Vos mails partent signés"
+      },
+      {
+        "t": "nouveau",
+        "titre": "Vos documents s’ouvrent dans Plutus"
+      },
+      {
+        "t": "nouveau",
+        "titre": "L’état de votre poste en un coup d’œil"
+      },
+      {
+        "t": "mieux",
+        "titre": "Des erreurs qui aident vraiment"
+      },
+      {
+        "t": "mieux",
+        "titre": "Vos sauvegardes protègent enfin tout votre travail"
+      },
+      {
+        "t": "mieux",
+        "titre": "Les mises à jour ne se font plus à l’aveugle"
+      },
+      {
+        "t": "corrige",
+        "titre": "Plutus n’annonce plus un envoi qui n’a pas eu lieu"
+      },
+      {
+        "t": "corrige",
+        "titre": "Plus rien ne disparaît en silence"
+      },
+      {
+        "t": "corrige",
+        "titre": "Vos imports sont plus fiables"
+      }
+    ]
+  }
 }
