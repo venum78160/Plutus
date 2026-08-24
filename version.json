@@ -1,72 +1,68 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "niveau": "normale",
   "url": "https://github.com/venum78160/Plutus/releases/latest",
-  "url_exe": "https://github.com/venum78160/Plutus/releases/download/v2.3.0/Plutus-Installation.exe",
-  "sha256": "f73eeca0ffbf60c1fd606faa944aa282506cdf0bb3b871d076510f20e727ef63",
-  "taille": 42658972,
-  "notes": "release: dix lots produit (corbeille, pilotage, courrier, autodiagnostic) [minor]",
+  "url_exe": "https://github.com/venum78160/Plutus/releases/download/v2.3.1/Plutus-Installation.exe",
+  "sha256": "2525fad4bde67d1d4a133a24f3640a754ce7e40807af9eae339154871ddd01df",
+  "taille": 43342358,
+  "notes": "docs(notes): note de mise a jour de la prochaine release (13 points)",
   "retirees": [],
   "notes_maj": {
-    "version": "2.3.0",
-    "date": "2026-08-11",
-    "intro": "Cette mise à jour rassemble plusieurs semaines de travail — d’où une liste inhabituellement longue.",
+    "version": "2.3.1",
+    "date": "2026-08-24",
+    "intro": "Deux semaines de travail rassemblées : la fiche garde enfin la trace de ce que vous changez, et le remplissage automatique arrête de créer des doublons.",
     "points": [
       {
         "t": "nouveau",
-        "titre": "Revenez sur une suppression"
+        "titre": "La fiche se souvient de ce que vous changez"
       },
       {
         "t": "nouveau",
-        "titre": "Voyez où en est votre activité sans ouvrir chaque fiche"
+        "titre": "Le remplissage automatique ne crée plus de doublons"
       },
       {
         "t": "nouveau",
-        "titre": "Passez du rendez-vous au compte rendu sans rien retaper"
+        "titre": "Choisissez le navigateur qui s’ouvre"
       },
       {
         "t": "nouveau",
-        "titre": "La fiche ne diverge plus des documents signés"
+        "titre": "Votre logo sur vos documents"
       },
       {
         "t": "nouveau",
-        "titre": "Votre courrier en préparation ne se perd plus"
+        "titre": "Votre photo dans la signature de vos e-mails"
       },
       {
         "t": "nouveau",
-        "titre": "Vos mails partent signés"
-      },
-      {
-        "t": "nouveau",
-        "titre": "Vos documents s’ouvrent dans Plutus"
-      },
-      {
-        "t": "nouveau",
-        "titre": "L’état de votre poste en un coup d’œil"
+        "titre": "Plutus tient sur une moitié d’écran"
       },
       {
         "t": "mieux",
-        "titre": "Des erreurs qui aident vraiment"
+        "titre": "Vos documents s’affichent au fur et à mesure"
       },
       {
         "t": "mieux",
-        "titre": "Vos sauvegardes protègent enfin tout votre travail"
+        "titre": "Vos envois de courrier ne partent plus à l’aveugle"
       },
       {
         "t": "mieux",
-        "titre": "Les mises à jour ne se font plus à l’aveugle"
+        "titre": "Les changements faits dans Google Agenda se voient"
+      },
+      {
+        "t": "mieux",
+        "titre": "L’import Proxeema reprend là où il s’est arrêté"
+      },
+      {
+        "t": "mieux",
+        "titre": "L’import du plan de charge dit ce qu’il n’a pas compris"
+      },
+      {
+        "t": "mieux",
+        "titre": "Plus confortable au quotidien"
       },
       {
         "t": "corrige",
-        "titre": "Plutus n’annonce plus un envoi qui n’a pas eu lieu"
-      },
-      {
-        "t": "corrige",
-        "titre": "Plus rien ne disparaît en silence"
-      },
-      {
-        "t": "corrige",
-        "titre": "Vos imports sont plus fiables"
+        "titre": "Amélioration de la stabilité et correction de plusieurs problèmes mineurs"
       }
     ]
   }
